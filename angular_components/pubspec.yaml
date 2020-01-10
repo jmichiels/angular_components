@@ -23,7 +23,7 @@ dependencies:
   meta: ^1.0.4
   observable: ^0.22.2
   protobuf: ^1.0.1
-  quiver: '>=0.24.0 <3.0.0'
+  quiver: 2.1.1 # '>=0.24.0 <3.0.0' # https://github.com/dart-lang/angular_components/issues/445
   sass_builder: ^2.0.2
 
 dev_dependencies:
